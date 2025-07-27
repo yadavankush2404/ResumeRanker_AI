@@ -63,10 +63,10 @@ ResumeRankerApp/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AI-Resume-Ranker.git
+git clone https://github.com/yadavankush2404/ResumeRanker_AI.git
 
 # Navigate into the project directory
-cd AI-Resume-Ranker
+cd ResumeRanker_AI
 
 # Install required Python packages
 pip install -r requirements.txt
