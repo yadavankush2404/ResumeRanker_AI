@@ -1,0 +1,2 @@
+Ravi Kumar is a skilled data analyst with experience in Python, SQL, and machine learning.
+He has worked on NLP projects and knows how to use PyTorch and Pandas effectively.

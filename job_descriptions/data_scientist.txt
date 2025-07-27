@@ -1,0 +1,2 @@
+We are looking for a Data Scientist proficient in Python, SQL, TensorFlow, and data visualization.
+Experience in NLP and model deployment is a plus.
